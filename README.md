@@ -18,7 +18,7 @@ We hope you will visit our website often and find the information you need to su
 
 <br />
 
-# [प्रभावती विद्यापीठ](https://VihaanInternationalSchool.com/)
+# [Vihaan School](https://VihaanInternationalSchool.com/)
 
 
 ## Dev Branch : [https://sineshx.com/VihaanInternationalSchool/](https://VihaanInternationalSchool.com/) 
