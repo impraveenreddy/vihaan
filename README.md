@@ -21,7 +21,7 @@ We hope you will visit our website often and find the information you need to su
 # [Vihaan School](https://VihaanInternationalSchool.com/)
 
 
-## Dev Branch : [https://sineshx.com/VihaanInternationalSchool/](https://VihaanInternationalSchool.com/) 
+## Dev Branch : [https://VihaanInternationalSchool/](https://VihaanInternationalSchool.com/) 
 
 # How to contribute : 
 
