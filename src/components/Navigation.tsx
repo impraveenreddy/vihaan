@@ -1,8 +1,11 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useContext } from "react";
+import { EnquiryContext } from '../contexts/EnquiryContext';
 
 export default function Navigation() {
   const [isOpen, setIsOpen] = useState(false);
+  const { openModal } = useContext(EnquiryContext);
 
   return (
     <nav className="fixed w-full z-50 bg-white/95 backdrop-blur-sm shadow-lg">
@@ -18,6 +21,7 @@ export default function Navigation() {
             <NavLink href="#key-info">Programs</NavLink>
             <NavLink href="#gallery">Gallery</NavLink>
             <motion.button
+              onClick={openModal}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="bg-gradient-to-r from-accent-raspberry to-accent-vermilion text-white px-6 py-2 rounded-full hover:from-accent-vermilion hover:to-accent-raspberry transition-all duration-300 shadow-md hover:shadow-lg"
@@ -57,6 +61,7 @@ export default function Navigation() {
                   Gallery
                 </MobileNavLink>
                 <motion.button
+                  onClick={openModal}
                   whileTap={{ scale: 0.95 }}
                   className="w-full bg-gradient-to-r from-accent-raspberry to-accent-vermilion text-white px-6 py-2 rounded-full hover:from-accent-vermilion hover:to-accent-raspberry transition-all duration-300 shadow-md"
                 >

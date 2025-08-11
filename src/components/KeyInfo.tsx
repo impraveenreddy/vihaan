@@ -1,5 +1,9 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
+import { useState } from 'react';
+import { useContext } from "react";
+import { EnquiryContext } from '../contexts/EnquiryContext';
+
 
 const academicPrograms = [
   { name: 'STEM Excellence', description: 'Advanced programs in Science, Technology, Engineering, and Mathematics' },
@@ -24,6 +28,9 @@ export default function KeyInfo() {
     triggerOnce: true,
     threshold: 0.1,
   });
+
+  const [isOpen, setIsOpen] = useState(false);
+  const { openModal } = useContext(EnquiryContext);
 
   return (
     <section className="py-20 bg-primary-light" id="key-info">
@@ -101,6 +108,7 @@ export default function KeyInfo() {
           </div>
           <div className="text-center mt-12">
             <motion.button
+              onClick={openModal}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="bg-gradient-to-r from-accent-raspberry to-accent-vermilion text-white px-8 py-3 rounded-full text-lg font-bold hover:from-accent-vermilion hover:to-accent-raspberry transition-all duration-300 shadow-md hover:shadow-lg"

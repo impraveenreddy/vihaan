@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { useContext } from "react";
-import { EnquiryContext } from "../contexts/EnquiryContext";
+import { EnquiryContext } from '../contexts/EnquiryContext'; 
 
 
 export default function Hero() {
