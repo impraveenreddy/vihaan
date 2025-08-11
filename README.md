@@ -1,98 +1,96 @@
-# [Vihaan International School](https://VihaanInternationalSchool.com/)
+# 🏫 School Website Design | Web Wizards - Projections 2025 🎨 
+
+<img src="https://github.com/Akarshjha03/React-School-WebSite/blob/main/img/Screenshot%202025-02-13%20151526.png" alt="Image description" width="800" height="400">
 
 
-### Welcome to our School Website!
+## 🌟 About the Project  
+This project was created as part of **Projections 2025**, the annual tech fest of my college. I participated in the **Web Wizards** event, where the challenge was to design an **individual website for a school**. The goal was to build an intuitive, visually stunning, and fully responsive **frontend design**.  
 
-Our mission is to provide our students, staff, and parents with the resources they need to achieve their academic and personal goals.
-The main Objective of our school is to provide a quality education that prepares all students for success in college and in the workforce.
+🔗 **Live Preview:** [School Website](https://zippy-stardust-3bd47c.netlify.app)  
 
-We are committed to creating a safe and supportive environment where all students can learn and succeed.
-We are proud of our strong traditions and values, and we work hard to promote a positive school culture.
+## 🎯 Key Features  
+✅ **Hero Section with Smooth Animations** - Engaging intro for an immersive experience  
+✅ **Modern UI/UX Design** - Clean, aesthetic, and user-friendly  
+✅ **Mobile-Friendly & Responsive** - Optimized for all screen sizes  
+✅ **Fast Performance** - Lightweight and highly optimized  
+✅ **Easy Navigation** - User-friendly menu for better accessibility  
+✅ **Colorful Gradient Transitions** - Enhancing the design with appealing effects  
+✅ **School Highlights Section** - Showcasing academics, extracurriculars, and admission info  
+✅ **Gallery Section** - Interactive image grid displaying school life  
 
-We hope you will visit our website often and find the information you need to support your academic and personal success.
+---
 
+## 🎨 Color Palette  
+The website follows a modern and professional **color scheme** with balanced contrasts and smooth gradients.  
 
-<div align="center">
-    <img alt="Desktop" title="#Desktop" src="./images/preview.jpg" width="680px" />
-</div>
+- **Primary Colors:**  
+  🎨 **Jet (#3A3335)** – Dark, strong base color  
+  🎨 **Ash Gray (#C6D8D3)** – Soft, neutral background  
 
-<br />
+- **Accent Colors:**  
+  🔴 **Raspberry (#D81E5B)** – Vibrant for buttons and highlights  
+  🟠 **Vermilion (#F0544F)** – Warm and energetic contrast  
+  🎗 **Papaya Whip (#FDF0D5)** – Light, airy background/section divider  
 
-# [Vihaan School](https://VihaanInternationalSchool.com/)
+- **Gradient Suggestion:**  
+  ✅ **Raspberry → Vermilion → Papaya Whip** - Smooth, energetic background transitions  
+  ✅ **Ash Gray → Jet** - Sleek, modern feel for dark mode elements  
 
+---
 
-## Dev Branch : [https://VihaanInternationalSchool/](https://VihaanInternationalSchool.com/) 
+## ⚙️ Tech Stack  
+This project was built using modern frontend technologies to ensure **scalability, performance, and a great user experience**.  
 
-# How to contribute : 
+🚀 **Frontend Development**  
+- ⚛ **React.js** - Component-based UI development  
+- 🌀 **Vite** - Fast and optimized development environment  
+- 📜 **TypeScript** - Type safety and better code maintainability  
+- 📄 **HTML5** - Semantic structure  
+- 🎨 **CSS3** - Styling and layout design  
+- 🎭 **Framer Motion** - Smooth animations  
+- 🎭 **Tailwind CSS** - Utility-first styling  
 
+🔧 **Other Technologies & Tools**  
+- 🌎 **Netlify** - Hosting and deployment  
+- 🛠 **ESLint & Prettier** - Code formatting and linting  
+- 🔍 **SEO Optimization** - Meta tags and performance improvements  
 
-## Steps to Setup this Repository Locally 💻
+---
 
-  1. Fork this repository to your account.
+## 🏆 Event & Participation  
+This project was built as part of **Projections 2025**, my college’s annual tech fest. I participated in the **Web Wizards** event, where the challenge was to **design a complete school website** with a focus on UI/UX.  
 
-![](assets/img_fork_1.png)
+🎭 **Event:** Web Wizards - Projections 2025  
+🏛 **College Tech Fest:** Projections 2025  
+🎨 **Task:** Build a stunning **frontend design** for a school website  
+🛠 **Category:** Web Design & Development  
 
-  2. Go to Git Bash and Clone the forked repository using :
-       
-       a. Clone the repository
-```bash
-   git clone https://github.com/your_username/make-pull-request
-```
-![](assets/clone_2.png)
+---
 
- 3. Open the folder in your favourite code editor and add your changes or modifications.
- 
-## Creating a PR 
- 
- 1. After making changes or modification on to your code locally, you need to add these files to the staging area.
-```bash
-  git add <file-name>
-```
- 2. Once files added, you need to commit the changes to with an appropriate commit message.
-```bash
-  git commit -m "<your-message>"
-```
- 3. After commiting the changes, you need to push the changes
-```bash
-   git push origin <branch-name>
-```
- 4. Once you push the changes to your repository, the Compare & pull request button will appear in GitHub.
+## 📢 Socials & Updates  
+🔗 **LinkedIn Post:** [Projections 2025 Event](https://www.linkedin.com/posts/akarshjha03_webdevelopment-uiux-reactjs-activity-7302277981723361280-erg5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmFKGAB2qrGBXOkJV4YDZn5m2yMFWx6yHc)  
+🔗 **Projections Link:** [Projections Page](https://www.linkedin.com/company/projections-techfest/?originalSubdomain=in)  
 
- 5. Click it and you'll be taken to this screen
+---
 
- 6. Type a proper description and give the PR an appropriate title. Finally, Open a pull request by clicking the Create pull request button.
+## 💡 Future Enhancements  
+While this is a **frontend-only design**, here are some future improvements that can be added:  
+🔹 **Convert to Full-Stack** - Implement backend with Node.js & Firebase  
+🔹 **Dynamic News & Announcements** - Fetch latest updates from a database  
+🔹 **Student & Teacher Login** - Authentication system for different user roles  
+🔹 **Interactive Contact Form** - Integrated with email notifications  
+🔹 **Accessibility Improvements** - Better support for screen readers and contrast adjustments  
 
- 7. That's it. You have opened a PR. Wait for it to get merged.
+---
 
-## For a valid Pull Request (PR) 🚀:
- - Create an issue and describe it properly. 🧭 
- - While creating PR, make sure you have mentioned the issue which you have solved. 📝 
+## 🎯 Conclusion
+This project was an exciting experience in designing a real-world school website. Web Wizards was a great opportunity to push my UI/UX skills, work with modern web tools, and create a professional-level design. I hope you find this project interesting! Feel free to ⭐ star this repository and contribute to future improvements. 🚀
 
-😇  Even if you can improve the documentation or fix typo, you are welcome.
+---
 
-Thank You!
+## 🤝 Connect With Me
 
-Happy Open Sourcing :)
+**Linkedin:** [Profile](https://www.linkedin.com/in/akarshjha03/)
+---
 
-## Thank You for your Amazing Contribution!!
-=======
-Happy Open Sourcing :)
-
-
-# About the website :
-## It is a High School website, live @ [VihaanInternationalSchool.com](https://VihaanInternationalSchool.com/)
-### Currently it is a simnple website , further we will improve :).
-
-
-# TODO
-[] Enable all links from styles.css
-```a{
-    pointer-events: none;
-    /* cursor: default; */
-}```
-[] all more photos 
-[] add map link
-[] add new events 
-[] correct language and translation 
-[] remove disabled-link and make pages for each link :) 
-[]
+## 📌 If you like this project, don't forget to ⭐ star the repo! 😊
