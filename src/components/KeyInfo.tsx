@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { useState } from 'react';
 import { useContext } from "react";
 import { EnquiryContext } from '../contexts/EnquiryContext';
 
@@ -29,7 +28,6 @@ export default function KeyInfo() {
     threshold: 0.1,
   });
 
-  const [isOpen, setIsOpen] = useState(false);
   const { openModal } = useContext(EnquiryContext);
 
   return (
